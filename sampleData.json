@@ -1,0 +1,175 @@
+title_localized,abstract_localized										
+"{
+  ""title_localized"": [{
+    ""text"": ""ProcÃ©dÃ© d\u0026#39;apprentissage en ligne d\u0026#39;un systÃ¨me de capteur d\u0026#39;intelligence artificielle (ia)"",
+    ""language"": ""fr"",
+    ""truncated"": ""false""
+  }, {
+    ""text"": ""Method for online training of an artificial intelligence (ai) sensor system"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""A method of operating an artificial intelligence sensor system (10) is presented for supervised training purposes, the artificial intelligence sensor system (10) having one or more sensors (12, 14) and at least one artificial neural network (18) that is configured for receiving and processing signals ( x \n   A,   \n 1 ,  x \n   A   \n ,2 ,  x \n   B   \n ,1 ) from the sensor or the sensors (12, 14). The at least one artificial neural network (18) derives an output representing a quality, which encompasses abstract objects such as classes as used for classification purposes as well as properties of objects, with a confidence level regarding the provided signals ( x \n   A,   \n 1 ,  x \n   A   \n ,2 ,  x \n   B   \n ,1 ),. If the derived confidence level of the quality is lower than a predetermined confidence level, the at least one provided signal ( x \n   A,   \n 1 ) and the derived quality are temporarily stored (60). By using at least one independent sensor signal ( x \n   A,   \n 1 ,  x \n   B   \n ,1 ), which includes using a signal ( x \n   B   \n ,1 ) of another sensor (14), the quality having a derived confidence level lower than the predetermined confidence level is confirmed (62, 66), and the temporarily stored signal ( x \n   A,   \n 1 ) or signals and the confirmed quality are permanently stored (70) as labeled online training data, using the derived quality as the label."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""A method of operating an artificial intelligence sensor system (10) is presented for supervised training purposes, the artificial intelligence sensor system (10) having one or more sensors (12, 14) and at least one artificial neural network (18) that is configured for receiving and processing signals (x A, 1, x A ,2, x B ,1) from the sensor or the sensors (12, 14). The at least one artificial neural network (18) derives an output representing a quality, which encompasses abstract objects such as classes as used for classification purposes as well as properties of objects, with a confidence level regarding the provided signals (x A, 1, x A ,2, x B ,1),. If the derived confidence level of the quality is lower than a predetermined confidence level, the at least one provided signal (x A, 1) and the derived quality are temporarily stored (60). By using at least one independent sensor signal (x A, 1, x B ,1), which includes using a signal (x B ,1) of another sensor (14), the quality having a derived confidence level lower than the predetermined confidence level is confirmed (62, 66), and the temporarily stored signal (x A, 1) or signals and the confirmed quality are permanently stored (70) as labeled online training data, using the derived quality as the label."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""La prÃ©sente invention concerne un procÃ©dÃ© de fonctionnement d\u0026#39	un systÃ¨me de capteur d\u0026#39	intelligence artificielle (10) conÃ§u Ã  des fins d\u0026#39	apprentissage supervisÃ©, le systÃ¨me de capteur d\u0026#39	intelligence artificielle (10) ayant un ou plusieurs capteurs (12, 14) et au moins un rÃ©seau neuronal artificiel (18) qui est conÃ§u pour recevoir et traiter des signaux ( x \n   A,   \n 1 ,  x \n   A   \n ,2 ,  x \n   B   \n ,1 ) envoyÃ©s par le ou les capteurs (12, 14). Ledit rÃ©seau neuronal artificiel (18) dÃ©rive une sortie reprÃ©sentant une qualitÃ©, qui englobe des objets abstraits tels que des catÃ©gories telles qu\u0026#39	utilisÃ©es Ã  des fins de classification, ainsi que des propriÃ©tÃ©s d\u0026#39	objets, avec un niveau de confiance concernant les signaux fournis ( x \n   A,   \n 1 ,  x \n   A   \n ,2 ,  x \n   B   \n ,1 ). Si le niveau de confiance dÃ©rivÃ© de la qualitÃ© est infÃ©rieur Ã  un niveau de confiance prÃ©dÃ©terminÃ©, ledit signal fourni ( x \n   A,   \n 1 ) et la qualitÃ© dÃ©rivÃ©e sont temporairement stockÃ©s (60). En utilisant au moins un signal de capteur indÃ©pendant ( x \n   A,   \n 1 ,  x \n   B   \n ,1 ), qui comprend l\u0026#39	utilisation d\u0026#39	un signal ( x \n   B   \n ,1 ) d\u0026#39	un autre capteur (14), la qualitÃ© ayant un niveau de confiance dÃ©rivÃ© infÃ©rieur au niveau de confiance prÃ©dÃ©terminÃ© est confirmÃ©e (62, 66), et le ou les signaux stockÃ©s temporairement ( x \n   A,   \n 1 ) et la qualitÃ© confirmÃ©e sont stockÃ©s de faÃ§on permanente (70) comme donnÃ©es d\u0026#39	apprentissage en ligne Ã©tiquetÃ©es, en utilisant la qualitÃ© dÃ©rivÃ©e comme Ã©tiquette."",
+    ""language"": ""fr"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""La prÃ©sente invention concerne un procÃ©dÃ© de fonctionnement d\u0026#39	un systÃ¨me de capteur d\u0026#39	intelligence artificielle (10) conÃ§u Ã  des fins d\u0026#39	apprentissage supervisÃ©, le systÃ¨me de capteur d\u0026#39	intelligence artificielle (10) ayant un ou plusieurs capteurs (12, 14) et au moins un rÃ©seau neuronal artificiel (18) qui est conÃ§u pour recevoir et traiter des signaux (x A, 1, x A ,2, x B ,1) envoyÃ©s par le ou les capteurs (12, 14). Ledit rÃ©seau neuronal artificiel (18) dÃ©rive une sortie reprÃ©sentant une qualitÃ©, qui englobe des objets abstraits tels que des catÃ©gories telles qu\u0026#39	utilisÃ©es Ã  des fins de classification, ainsi que des propriÃ©tÃ©s d\u0026#39	objets, avec un niveau de confiance concernant les signaux fournis (x A, 1, x A ,2, x B ,1). Si le niveau de confiance dÃ©rivÃ© de la qualitÃ© est infÃ©rieur Ã  un niveau de confiance prÃ©dÃ©terminÃ©, ledit signal fourni (x A, 1) et la qualitÃ© dÃ©rivÃ©e sont temporairement stockÃ©s (60). En utilisant au moins un signal de capteur indÃ©pendant (x A, 1, x B ,1), qui comprend l\u0026#39	utilisation d\u0026#39	un signal (x B ,1) d\u0026#39	un autre capteur (14), la qualitÃ© ayant un niveau de confiance dÃ©rivÃ© infÃ©rieur au niveau de confiance prÃ©dÃ©terminÃ© est confirmÃ©e (62, 66), et le ou les signaux stockÃ©s temporairement (x A, 1) et la qualitÃ© confirmÃ©e sont stockÃ©s de faÃ§on permanente (70) comme donnÃ©es d\u0026#39	apprentissage en ligne Ã©tiquetÃ©es, en utilisant la qualitÃ© dÃ©rivÃ©e comme Ã©tiquette."",
+    ""language"": ""fr"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Virtual game assistant based on artificial intelligence"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""Virtual game dealers based on artificial intelligence are described. In one implementation, an artificial intelligence (AI) engine tracks player attributes and game states of a given electronic game, such as a multiplayer electronic card game hosted by a virtual dealer. The virtual dealer may be embodied as a video, hologram, or robot. The AI engine selects speech and gestures for the virtual dealer based on the game states and player attributes. The player attributes may be retrieved from a player tracking system, from an identifier card carried by the player, and from machine perception of the player in real time. In one implementation, the AI engine determines emotions for the virtual dealer to portray, based on circumstances. Supported by the AI engine, the virtual dealer may personalize dialogue, provide information, and perform card and chip tricks. The AI engine may also animate a virtual player and select interactions between the virtual dealer and the virtual player based on game states and attributes of the human players."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Optimization techniques for artificial intelligence"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""Methods, apparatuses and computer readable medium are presented for generating a natural language model. A method for generating a natural language model comprises: selecting from a pool of documents, a first set of documents to be annotated	 receiving annotations of the first set of documents elicited by first human readable prompts	 training a natural language model using the annotated first set of documents	 determining documents in the pool having uncertain natural language processing results according to the trained natural language model and/or the received annotations	 selecting from the pool of documents, a second set of documents to be annotated comprising documents having uncertain natural language processing results	 receiving annotations of the second set of documents elicited by second human readable prompts	 and retraining a natural language model using the annotated second set of documents."",				
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""Methods, apparatuses and computer readable medium are presented for generating a natural language model. A method for generating a natural language model comprises: selecting from a pool of documents, a first set of documents to be annotated	 receiving annotations of the first set of documents elicited by first human readable prompts	 training a natural language model using the annotated first set of documents	 determining documents in the pool having uncertain natural language processing results according to the trained natural language model and/or the received annotations	 selecting from the pool of documents, a second set of documents to be annotated comprising documents having uncertain natural language processing results	 receiving annotations of the second set of documents elicited by second human readable prompts	 and retraining a natural language model using the annotated second set of documents."",				
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Method to create a secure distributed data validation system using a distributed storage system and artificial intelligence"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""Methods and apparatus for validating paper forms are provided. A node can receive paper-form data from a paper form that has first and second data items (DIs). The node can: determine first and second metadata for the first and second DIs respectively, determine respective first and second validation entities (VEs) to validate respective values of the first and second DIs based on the respective first and second metadata, where the first and second VEs can differ, provide a user interface (UI) including a display of the first DI, receive a validation status for the first DI via the first UI from the first VE, select a first distributed storage system (DSS) associated with the first DI, and record the value of the first DI and the validation status in the first DSS. The node can generate an output related to the paper-form data based on the first DSS."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""Methods and apparatus for validating paper forms are provided. A node can receive paper-form data from a paper form that has first and second data items (DIs). The node can: determine first and second metadata for the first and second DIs respectively, determine respective first and second validation entities (VEs) to validate respective values of the first and second DIs based on the respective first and second metadata, where the first and second VEs can differ, provide a user interface (UI) including a display of the first DI, receive a validation status for the first DI via the first UI from the first VE, select a first distributed storage system (DSS) associated with the first DI, and record the value of the first DI and the validation status in the first DSS. The node can generate an output related to the paper-form data based on the first DSS."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Intelligent auditory humanoid robot and computerized verbalization system programmed to perform auditory and verbal artificial intelligence processes"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""The disclosed Auditory RRC-Humanoid Robot equipped with a verbal-phoneme sound generator is a computer-based system programmed to reach high levels of human-like verbal-AI. Behavioral programming techniques are used to reach human-like levels of identification-AI, recognition-AI, and comprehension-AI of all the words and sentences presented to the robot as verbal input signals. An innovative behavioral speech processing methodology is used to recognize and repeat the acoustic sequential set of phoneme signals that comprise the verbally generated speech of human speakers. The recognized and repeated sequential set of phoneme signals are then mapped onto a unique phonetic structure such as all the words and clauses listed in a 50,000 word lexicon that may then make up the vocabulary of the RRC-Robot. The system is programmed to hear and understand verbal speech with its auditory sensors, and intelligently responds by verbally talking with its verbal-phoneme sound generator."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Directed trajectories through communication decision tree using iterative artificial intelligence"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""Embodiments relate to configuring artificial-intelligence (AI) decision nodes throughout a communication decision tree. The decision nodes can support successive iteration of AI models to dynamically define iteration data that corresponds to a trajectory through the tree"",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""Embodiments relate to configuring artificial-intelligence (AI) decision nodes throughout a communication decision tree. The decision nodes can support successive iteration of AI models to dynamically define iteration data that corresponds to a trajectory through the tree"",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Exercising artificial intelligence by refining model output"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""The improved exercise of artificial intelligence. Raw output data is obtained by applying an input data set to an artificial intelligence (AI). Such raw output data is sometimes difficult to interpret. The principles defined herein provide a systematic way to refine the output for a wide variety of AI models. An AI model collection characterization structure is utilized for purpose of refining AI model output so as to be more useful. The characterization structure represents, for each of multiple and perhaps numerous AI models, a refinement of output data that resulted from application of an AI model to input data. Upon obtaining output data from the AI model, the appropriate refinement may then be applied. The refined data may then be semantically indexed to provide a semantic index. The characterization structure may also provide tailored information to allow for intuitive querying against the semantic index."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""The improved exercise of artificial intelligence. Raw output data is obtained by applying an input data set to an artificial intelligence (AI). Such raw output data is sometimes difficult to interpret. The principles defined herein provide a systematic way to refine the output for a wide variety of AI models. An AI model collection characterization structure is utilized for purpose of refining AI model output so as to be more useful. The characterization structure represents, for each of multiple and perhaps numerous AI models, a refinement of output data that resulted from application of an AI model to input data. Upon obtaining output data from the AI model, the appropriate refinement may then be applied. The refined data may then be semantically indexed to provide a semantic index. The characterization structure may also provide tailored information to allow for intuitive querying against the semantic index."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Convolution computation engine, artificial intelligence chip, and data processing method"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""This application discloses a convolution computation engine of a neural network model. The neural network model includes at least first and second network layers. The convolution computation engine includes a weight storage unit implemented by a first processing circuit and a data computation unit implemented by a second processing circuit. The weight storage unit pre-loads weight data of the second network layer from an external storage unit located outside the convolution computation engine during a convolution operation of the first network layer. The data computation unit obtains target input data of the second network layer in response to an operation instruction of the second network layer, and reads the weight data of the second network layer from the weight storage unit	 and performs a convolution operation on the target input data by using the weight data of the second network layer."",									
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""This application discloses a convolution computation engine of a neural network model. The neural network model includes at least first and second network layers. The convolution computation engine includes a weight storage unit implemented by a first processing circuit and a data computation unit implemented by a second processing circuit. The weight storage unit pre-loads weight data of the second network layer from an external storage unit located outside the convolution computation engine during a convolution operation of the first network layer. The data computation unit obtains target input data of the second network layer in response to an operation instruction of the second network layer, and reads the weight data of the second network layer from the weight storage unit	 and performs a convolution operation on the target input data by using the weight data of the second network layer."",									
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Dialysis system with artificial intelligence"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""Constraining adaptive optimizations of a state of an operation module of a medical device includes determining if a new state has at least one operational parameter that is outside a constraint that has been provided to the medical device in a non-repudiable manner, accepting the new state if no operational parameters are outside any of the constraints, and reverting the medical device to a previous valid state if at least one operational parameter is outside at least one of the constraints. The adaptive optimizations may be provided using artificial intelligence along with relevant inputs thereto. The medical device may be a dialysis system. Constraint data may be provided to the medical device along with a one-way hash value of the constraint data using, for example, a SHA 256 hash. The one-way hash value may be digitally signed using a private key that is part of a public/private key pair."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""Constraining adaptive optimizations of a state of an operation module of a medical device includes determining if a new state has at least one operational parameter that is outside a constraint that has been provided to the medical device in a non-repudiable manner, accepting the new state if no operational parameters are outside any of the constraints, and reverting the medical device to a previous valid state if at least one operational parameter is outside at least one of the constraints. The adaptive optimizations may be provided using artificial intelligence along with relevant inputs thereto. The medical device may be a dialysis system. Constraint data may be provided to the medical device along with a one-way hash value of the constraint data using, for example, a SHA 256 hash. The one-way hash value may be digitally signed using a private key that is part of a public/private key pair."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
+"{
+  ""title_localized"": [{
+    ""text"": ""Dynamic power management for artificial intelligence hardware accelerators"",
+    ""language"": ""en"",
+    ""truncated"": ""false""
+  }]
+},""{"										
+  ""abstract_localized"": [{										
+    ""text"": ""A computer-implemented method for dynamically managing the power usage and/or performance of an artificial intelligence (AI) hardware accelerator may include (1) receiving an instruction stream that includes one or more instructions for performing at least one AI-specific computing task, (2) identifying a plurality of special-purpose, hardware-based functional units configured to perform AI-specific computing tasks, (3) predicting, based on an analysis of at least a portion of the instruction stream, a power-usage requirement for at least one of the functional units when executing the instruction stream, and then (4) modifying, based on the power-usage requirement, the power supplied to at least one of the functional units. Various other methods and systems are also disclosed."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }, {										
+    ""text"": ""A computer-implemented method for dynamically managing the power usage and/or performance of an artificial intelligence (AI) hardware accelerator may include (1) receiving an instruction stream that includes one or more instructions for performing at least one AI-specific computing task, (2) identifying a plurality of special-purpose, hardware-based functional units configured to perform AI-specific computing tasks, (3) predicting, based on an analysis of at least a portion of the instruction stream, a power-usage requirement for at least one of the functional units when executing the instruction stream, and then (4) modifying, based on the power-usage requirement, the power supplied to at least one of the functional units. Various other methods and systems are also disclosed."",										
+    ""language"": ""en"",										
+    ""truncated"": ""false""										
+  }]										
+}"										
